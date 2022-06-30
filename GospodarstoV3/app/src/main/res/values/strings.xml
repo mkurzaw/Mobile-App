@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">GospodarstoV3</string>
+
+
+        <string name="text_accounts">Wszystkie osoby</string>
+        <string name="hint_name">Imię</string>
+        <string name="hint_email">Email</string>
+        <string name="hint_password">Hasło</string>
+        <string name="hint_confirm_password">Potwierdź hasło</string>
+        <string name="text_login">Zaloguj</string>
+        <string name="text_register">Zarejestruj</string>
+        <string name="error_message_name">Enter Full Name</string>
+        <string name="error_message_email">Enter Valid Email</string>
+        <string name="error_message_age">Enter Age</string>
+        <string name="error_message_password">Enter Password</string>
+        <string name="success_message">Registration Successful</string>
+        <string name="text_not_member">Nie masz jeszcze konta? Stwórz je!</string>
+        <string name="text_already_member">Masz już konto? Zaloguj się!</string>
+        <string name="error_email_exists">Email Already Exists</string>
+        <string name="error_password_match">Password Does Not Matches</string>
+        <string name="error_valid_email_password">Wrong Email or Password</string>
+        <string name="action_settings">Settings</string>
+        <string name="text_hello">Hello,</string>
+        <string name="text_title">Android Tutorials Hub</string>
+
+    <string-array name="Sources">
+        <item>Praca</item>
+        <item>Wygrana</item>
+        <item>Pożyczka</item>
+        <item>Zwrot podatku</item>
+        <item>Inewstycje</item>
+        <item>Spadek</item>
+        <item>Inne</item>
+    </string-array>
+    <string-array name="Category">
+        <item>Żywność</item>
+        <item>Opłaty mieszaniowe</item>
+        <item>Samochód</item>
+        <item>Elektronika</item>
+        <item>Wakacje</item>
+        <item>Szkoła</item>
+        <item>Ubrania</item>
+        <item>AGD</item>
+        <item>Inne</item>
+    </string-array>
+</resources>
